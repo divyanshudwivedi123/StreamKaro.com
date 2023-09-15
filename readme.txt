@@ -1,1 +1,0 @@
-StreamKaro is a movies streaming platform based on MERN stack.
